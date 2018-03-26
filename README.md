@@ -1,4 +1,4 @@
 # DFab18
-Principles of Digital Fabrication 521159P Project Repository
+Principles of Digital Fabrication 521159P Project repository
 
-Project Website: https://sites.google.com/site/dfabproject18/home
+Project website: https://sites.google.com/site/dfabproject18/home
